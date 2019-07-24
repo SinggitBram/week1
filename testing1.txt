@@ -1,6 +1,9 @@
-
+<!doctype html>
 
 <head>
+
+
+<title> MAKANAN </title>
 
 </head>
 
@@ -9,6 +12,8 @@
 	<p> nyobain coding </p>
 
 	<h1> Jenis Makanan </h1>
+
+	<h2> Makanan Pembuka </h2>
 
 
 </body>
