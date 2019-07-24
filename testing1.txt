@@ -6,6 +6,9 @@
 
 <body>
 
-<p> nyobain coding </p>
+	<p> nyobain coding </p>
+
+	<h1> Jenis Makanan </h1>
+
 
 </body>
